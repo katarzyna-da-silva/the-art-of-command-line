@@ -1,4 +1,4 @@
-# Authors
+# Authors KATARZYNA DA SILVA
 
 This work is the result of the effort of many people around the world.
 Contributors are listed in alphabetical order by GitHub login.
